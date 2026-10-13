@@ -2,9 +2,7 @@
 
 R code for the simulation studies in:
 
-Shonosuke Sugasawa, Genya Kobayashi, and Yuki Kawakubo.  
-**Bayesian Benchmarking Small Area Estimation via Entropic Tilting.**  
-https://arxiv.org/abs/2407.17848
+Shonosuke Sugasawa, Genya Kobayashi, and Yuki Kawakubo (2026). **Bayesian Benchmarking Small Area Estimation via Entropic Tilting.** *Journal of Survey Statistics and Methodology* (https://arxiv.org/abs/2407.17848)
 
 The code implements Bayesian benchmarking via entropic tilting and compares it with alternative benchmarking methods under Fay–Herriot and Poisson–gamma models.
 
